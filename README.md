@@ -10,3 +10,8 @@ Here is the homepage of Build Your Gym
 Users can register an account.
 
 ![image](https://user-images.githubusercontent.com/62003762/207675553-c16088d2-c863-473b-8e23-41465d053b61.png)
+
+
+Here is the Checkout Page. After a user adds gym equipment to their cart, they can view their items. They can select a quantity for each product, which will calculate the new quantity with the original price of the selected product, and a new total amount will be generated.
+
+![image](https://user-images.githubusercontent.com/62003762/207676446-94517d19-e9c5-46b4-b23b-11c448dfa26b.png)
