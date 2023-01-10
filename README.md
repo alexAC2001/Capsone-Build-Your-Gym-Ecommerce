@@ -15,3 +15,17 @@ Users can register an account that will be stored in the MySQL database. The use
 Here is the Checkout Page. After a user adds gym equipment to their cart, they can view their items. They can select a quantity for each product, which will calculate the new quantity with the original price of the selected product, and a new total amount will be generated.
 
 ![image](https://user-images.githubusercontent.com/62003762/207676446-94517d19-e9c5-46b4-b23b-11c448dfa26b.png)
+
+# Flowchart
+Here is an example of a flowchart I created showing the process of a user logging into their account.
+![image](https://user-images.githubusercontent.com/62003762/211480994-170b31a2-a8c4-4ca1-b21f-c615b2bb6020.png)
+
+# Physical Solution Design
+![image](https://user-images.githubusercontent.com/62003762/211481165-1f1b004a-9d36-46fb-bbbf-f294b9c58788.png)
+
+# Logical Solution Design
+![image](https://user-images.githubusercontent.com/62003762/211481219-1c970d86-fe9b-4539-8a3a-72a78dd8e65f.png)
+
+# Architecture of the Solution
+This shows the architectural solution of the project. Users will view and interact with the React application as it implements front end features. The React application is communicating with the back end Spring Boot application with its REST APIs. Data pertaining to users and gym products are stored to the MySQL databsae.
+![image](https://user-images.githubusercontent.com/62003762/211482844-5990ea14-7409-4eb2-b727-c0e46c9ecd47.png)
