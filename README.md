@@ -1,8 +1,8 @@
 # Capsone-Build-Your-Gym-Ecommerce
-I created an ecommerce website where users can register an account and purchase gym products.
+I created an ecommerce website where users can register an account and purchase gym products. The backend was created in the Spring Boot framework written in Java, whereas the front end was created in the React framework written in JavaScript.
 
 
-Here is the homepage of Build Your Gym
+Here is the homepage of Build Your Gym.
 
 ![image](https://user-images.githubusercontent.com/62003762/207675083-da747797-5b74-4f25-a3bb-a5609ab6708f.png)
 
